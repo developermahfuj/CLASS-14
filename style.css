@@ -24,7 +24,7 @@
     transform: rotate(30deg) scale(1.2);
 }
 .img3:hover img{
-    transform:  s;
+    transform: rotate(-30deg) scale(1.2);
 }
 .img7:hover img{
     transform: rotate(7deg) scale(1.3);
